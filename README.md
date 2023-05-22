@@ -29,3 +29,10 @@ docker run --name kib-01 --net elastic -p 5601:5601 docker.elastic.co/kibana/kib
 Se rendre sur le lien reçu et copier l'enrollment token puis se connecter avec les identifiants :
 http://localhost:5601/?code=282366
 
+## Setup kaggle Dataset
+
+Créer un compte kaggle :
+https://www.kaggle.com/
+
+Ajouter un dataset :
+![image](https://github.com/YannBonaudo/cours-elasticsearch/assets/45734971/409c496b-2bef-4a10-8f23-1570aa8007ce)
