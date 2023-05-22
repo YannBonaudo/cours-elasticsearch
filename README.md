@@ -26,6 +26,6 @@ créer un container pour kibana avec l'image
 docker run --name kib-01 --net elastic -p 5601:5601 docker.elastic.co/kibana/kibana:8.7.1
 ```
 
-Se rendre sur le lien reçu :
+Se rendre sur le lien reçu et copier l'enrollment token puis se connecter avec les identifiants :
 http://localhost:5601/?code=282366
 
